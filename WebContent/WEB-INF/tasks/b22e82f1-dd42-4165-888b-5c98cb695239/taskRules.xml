@@ -1,0 +1,26 @@
+<CONFIG xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="http://www.webmethods.com/schema/xmlImport.xsd"
+    depCheck="false"
+>
+	<Mode type="sync">
+	    <!-- Setup distribution rules -->
+	    <CONTEXT alias="b22e82f1-dd42-4165-888b-5c98cb695239.routing.rules.storage">
+	    
+	    </CONTEXT>
+	
+	    <!-- Setup distribution filters -->
+	    <CONTEXT alias="b22e82f1-dd42-4165-888b-5c98cb695239.filter.rules.storage">
+	    
+	    </CONTEXT>
+	
+	    <!-- Setup trigger rules -->
+	    <CONTEXT alias="b22e82f1-dd42-4165-888b-5c98cb695239.change.rules.storage">
+	    
+	    </CONTEXT>
+	
+	    <!-- Setup schedule rules -->
+	    <CONTEXT alias="b22e82f1-dd42-4165-888b-5c98cb695239.schedule.rules.storage">
+	    
+	    </CONTEXT>
+	</Mode>
+</CONFIG>

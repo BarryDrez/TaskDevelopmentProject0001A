@@ -1,0 +1,19 @@
+<CONFIG xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="http://www.webmethods.com/schema/xmlImport.xsd"
+>
+	<CONTEXT alias="70c3ab05-21ce-42b9-bcb8-cd9933b72fee.task.app">
+		<folder name="null" description="null" alias="70c3ab05-21ce-42b9-bcb8-cd9933b72fee.task.app.inbox" isTaskFolder="true">
+			<Mode type="sync">
+	            <page>
+	            	<row>
+	            		<column>
+	            			
+	                        
+	                    </column>
+	                </row>
+	                <hobos/>
+	            </page>
+	        </Mode>
+        </folder>
+    </CONTEXT>
+</CONFIG>
